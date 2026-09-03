@@ -18,7 +18,7 @@ graph TD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[random image](https://picsum.photos/200/300)
 * ### example
 ![Random Blur Image](https://picsum.photos/200/300/?blur "blurrrrrrrrr")
-* ### more about
+* ### for
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lorem Picsum](https://picsum.photos/)
 
 ## Games I Usually Play
